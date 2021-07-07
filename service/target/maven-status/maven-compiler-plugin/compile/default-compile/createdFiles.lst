@@ -1,2 +1,5 @@
-ru/neoflex/SpringBootExampleApplication.class
 ru/neoflex/controller/SpringBootExampleController.class
+ru/neoflex/domain/Message.class
+ru/neoflex/MessageService.class
+ru/neoflex/repo/MessageRepo.class
+ru/neoflex/SpringBootExampleApplication.class

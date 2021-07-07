@@ -1,2 +1,5 @@
-/home/user/IdeaProjects/spring-boot-example/service/src/main/java/ru/neoflex/SpringBootExampleApplication.java
-/home/user/IdeaProjects/spring-boot-example/service/src/main/java/ru/neoflex/controller/SpringBootExampleController.java
+/home/megorov/IdeaProjects/spring-boot-example/service/src/main/java/ru/neoflex/domain/Message.java
+/home/megorov/IdeaProjects/spring-boot-example/service/src/main/java/ru/neoflex/MessageService.java
+/home/megorov/IdeaProjects/spring-boot-example/service/src/main/java/ru/neoflex/controller/SpringBootExampleController.java
+/home/megorov/IdeaProjects/spring-boot-example/service/src/main/java/ru/neoflex/SpringBootExampleApplication.java
+/home/megorov/IdeaProjects/spring-boot-example/service/src/main/java/ru/neoflex/repo/MessageRepo.java
